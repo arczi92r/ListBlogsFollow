@@ -10,7 +10,7 @@ https://www.samouczekprogramisty.pl/dependency-inversion-principle-dependency-in
 
 
 
-##Ksiazki
+# Ksiazki
 
 
 https://helion.pl/ksiazki/architektura-systemow-zarzadzania-przedsiebiorstwem-wzorce-projektowe-martin-fowler,szabko.htm#format/d
