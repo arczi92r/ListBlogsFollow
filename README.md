@@ -1,7 +1,7 @@
 # ListBlogsFollow
 http://blog.cwa.me.uk/
 https://www.dotnetweekly.com/
-
+https://rolandguijt.com/adding-a-graphql-endpoint-to-your-api/
 
 Polskie 
 https://www.samouczekprogramisty.pl/dependency-inversion-principle-dependency-injection-i-inversion-of-control/
